@@ -1,6 +1,8 @@
 # Zian Zhou
 ### Screenshot of commit:
 ![Alt text](commit.png?raw=true "Commit")
+### Screenshot of merge:
+![Alt text](merge.png?raw=true "Merge")
 ### Screenshot of resolving merge conflict:
 ![Alt text](conflict.png?raw=true "Conflict")
 ### Screenshot of developing and testing utils:
